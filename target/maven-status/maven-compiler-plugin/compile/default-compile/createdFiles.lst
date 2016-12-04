@@ -1,0 +1,8 @@
+ysm\ms\app\ApplicationConfig.class
+ysm\ms\app\rest\SubscriptionService.class
+ysm\ms\app\ReadSubscription.class
+ysm\ms\app\rest\Subscription.class
+ysm\ms\app\rest\MessageType.class
+ysm\ms\app\ApplicationConfig$JerseyConfig.class
+ysm\ms\app\rest\Message.class
+ysm\ms\app\Application.class
